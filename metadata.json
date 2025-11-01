@@ -1,0 +1,8 @@
+{
+  "name": "New Loksewa Guru",
+  "description": "A comprehensive mobile application for Nepali students preparing for Loksewa exams, providing syllabus, notes, quizzes, AI-powered interview practice, and other essential tools.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
